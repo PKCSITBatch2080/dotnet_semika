@@ -13,6 +13,13 @@ class Student
         name = n;
         RollNumber = rn;
     }
+
+     public Student(string n, byte rn)
+    {
+        name = n;
+        RollNumber = rn;
+        Dob
+    }
     
     string name;
     byte rollNumber;
